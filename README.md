@@ -1,3 +1,5 @@
+**[Live Dashboard →](https://predictive-maintenance-dashboard-i.streamlit.app)**
+
 # Enterprise Predictive Maintenance & IoT Sensor Optimization
 
 End-to-end MLOps pipeline for turbofan engine remaining useful life (RUL) prediction — built on NASA CMAPSS sensor data using a Databricks/PySpark bronze→silver→gold medallion architecture, with Snowflake as the serving layer and MLflow for experiment tracking and model governance.
